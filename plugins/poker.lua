@@ -11,8 +11,6 @@ end
 return {
 patterns = {
 "^>😐"
-"^>😐<"
-"^<😐"
 },
 run = run
 }

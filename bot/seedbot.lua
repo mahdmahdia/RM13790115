@@ -213,7 +213,6 @@ function create_config( )
     "poker",
     "lol",
     "gps",
-    "info",
     "sticker",
     "tophoto",
     "antibot",

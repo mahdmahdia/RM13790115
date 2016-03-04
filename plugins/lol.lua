@@ -11,10 +11,8 @@ end
 return {
 patterns = {
 "^>😂"
-"^<😂"
-"^>😂<"
 },
 run = run
 }
 
-end poker-reply
+end

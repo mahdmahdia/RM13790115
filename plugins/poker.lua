@@ -1,4 +1,4 @@
-ap do
+do
 
 function run(msg, matches)
 local reply_id = msg['id']
